@@ -20,8 +20,9 @@
 | 01 | Generate a Keypair & Get Devnet SOL | ✅ Done | [📁Day1](./Day1) |
 | 02 | Persistent Wallet with Balance Check | ✅ Done | [📁Day2](./Day2) |
 | 03 | Understand SOL and Lamports | ✅ Done | [📁 Day3](./Day3) |
-| 04 | Coming Soon... | 🔄 | — |
-| 05 | Coming Soon... | 🔄 | — |
+| 04 | Understand SOL and Lamports with  ui  intarction | ✅ Done | [📁 Day4](./Day4) |
+| 03 | Explore different wallet types | ✅ Done | [📁 Day5](./Day5) |
+
 | ... | ... | ⏳ | — |
 | 100 | Final Project | ⏳ | — |
 
